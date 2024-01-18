@@ -1,0 +1,12 @@
+// Program to display the first 10 natural numbers.
+public class main
+  {
+    public static void main(String[] args)
+    {
+      int a=10;
+      for(int i=1;i<=a;i++)
+        {
+          System.out.println(i);
+        }
+    }
+  }
