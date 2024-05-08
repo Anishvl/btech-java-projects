@@ -1,0 +1,11 @@
+program to implement all string methods on a input string
+
+convert a given integer array of size n into a string
+
+program to ready and print a given string using different methods
+
+program to reverse the words in a string
+
+program to read a string and replace all the vowels with a "$" symbol
+
+program to count the number of occurances in a given text string 
